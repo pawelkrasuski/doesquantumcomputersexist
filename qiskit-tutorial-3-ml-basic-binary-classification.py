@@ -15,7 +15,7 @@ feature_map = ZZFeatureMap(num_qubits)
 ansatz = RealAmplitudes(num_qubits, reps=1)
 
 # Create a sampler
-sampler = StatevectorSampler()
+sampler = Sampler()
 
 # Create the VQC
 vqc = VQC(
