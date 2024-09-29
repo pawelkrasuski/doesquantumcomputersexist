@@ -1,4 +1,4 @@
-# Qiskit Machine Learning Tutorials
+# Qiskit Machine Learning Examples
 This repository contains tutorials for learning Qiskit with a focus on machine learning features. These tutorials are designed to help you get started with quantum machine learning using IBM's Qiskit framework.
 Prerequisites
 Before you begin, ensure you have the following installed:
